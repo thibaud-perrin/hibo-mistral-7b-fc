@@ -1,7 +1,7 @@
 # hibo-mistral-7b-fc-v1 - dataset and fine-tuned model
 
 <div align="center">
-    <img src="./img/banner.webp" width="100%" />
+    <img src="./img/banner2.webp" width="100%" />
 </div>
 
 ---
