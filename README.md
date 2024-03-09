@@ -4,7 +4,7 @@
     <img src="./img/banner2.webp" width="100%" />
 </div>
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-ff69b4.svg)](https://huggingface.co/thibaud-perrin/hibo-mistral-7b-fc-v1.2)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-ff69b4.svg)](https://huggingface.co/thibaud-perrin/hibo-mistral-7b-fc-v1.3)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-ff69b4.svg)](https://huggingface.co/datasets/thibaud-perrin/hibo-function-calling-v1)
 
 ---
